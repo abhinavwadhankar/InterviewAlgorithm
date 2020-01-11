@@ -34,6 +34,10 @@ public class Test {
 		pI.palindronCheckInt(100);
 		pI.palindronCheckInt(12345);
 		
+		/*PalindromString */
+		PalindromString pString=new PalindromString();
+		pString.stringPalindromCheckByCharArray("Neen");
+		pString.stringPalindromCheckByStringBuffer("Abhnav");
 		
 	}
 	
