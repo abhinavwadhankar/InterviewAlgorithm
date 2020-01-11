@@ -18,6 +18,23 @@ public class Test {
 		sr.stringReverseByCharArry("Abhinav");
 		sr.stringReverseByStringBuffer("Abhinav");
 		
+		/*Reverse Integer*/
+		ReverseInteger rT=new ReverseInteger();
+		rT.reverseInt(1234);
+		rT.reverseInt(0);
+		rT.reverseInt(1);
+		rT.reverseInt(-1234);
+		
+		
+		/*PalindromInteger */
+		PalindromInteger pI=new PalindromInteger();
+		pI.palindronCheckInt(121);
+		pI.palindronCheckInt(-121);
+		pI.palindronCheckInt(0);
+		pI.palindronCheckInt(100);
+		pI.palindronCheckInt(12345);
+		
+		
 	}
 	
 	

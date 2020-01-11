@@ -4,7 +4,7 @@ public class StringReverse {
 	
 	public void stringReverseByCharArry(String str)
 	{
-		System.out.println("Before :-"+str);
+		System.out.println("Before :"+str);
 		
 		char[] ch=str.toCharArray();
 		int length=ch.length;
@@ -14,15 +14,15 @@ public class StringReverse {
 			ch[i]=ch[j];
 			ch[j]=chtemp;
 		}
-		System.out.println("After :-"+ new String(ch));
+		System.out.println("After :"+ new String(ch));
 	}
 	
 	public void stringReverseByStringBuffer(String str)
 	{
-		System.out.println("Before :-"+str);
+		System.out.println("Before :"+str);
 		StringBuffer sb=new StringBuffer(str);
 		sb.reverse();
-		System.out.println("After :-"+sb);
+		System.out.println("After :"+sb);
 	}
 
 }
