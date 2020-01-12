@@ -37,7 +37,12 @@ public class Test {
 		/*PalindromString */
 		PalindromString pString=new PalindromString();
 		pString.stringPalindromCheckByCharArray("Neen");
-		pString.stringPalindromCheckByStringBuffer("Abhnav");
+		pString.stringPalindromCheckByStringBuffer("Abhinav");
+		
+		/*fibonacci*/
+		Fibonacci fb=new Fibonacci();
+		fb.fibonacciSeries(10);
+		fb.fiboRecursion(10);
 		
 	}
 	
