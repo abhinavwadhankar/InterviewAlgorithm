@@ -3,8 +3,12 @@ package src.problems;
 public class BubbleSortLogic {
 
 		
-		void bubbleSortLogicMethod(int arr[])
+		void bubbleSortLogicMethodAscending(int arr[])
 		{
+			
+		}
+		void bubbleSortLogicMethodDecending(int arr[])
+		{	
 			
 		}
 }
