@@ -22,27 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="added maven">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="change project structure">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseSingleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseWordInsideString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseWordInsideString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/bin/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/bin/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/Entry/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entry/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/Entry/TestLinkListSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entry/TestLinkListSingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/GeeksForGeeks/Amstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/VerifyAmstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/BubbleSortLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/BubbleSortLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/CSSselector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CSSselector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/LinkListSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/LinkListSingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/PalindromInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/PalindromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/SwapLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/SwapLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/StringReverse.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +53,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1p3CUgWzFhl24aZXZSDgi94m06C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -119,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614491446442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change project structure">
+      <created>1614492663332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614492663332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,9 +130,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="pulled master" />
     <MESSAGE value="added maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="added maven" />
+    <MESSAGE value="change project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="change project structure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="281" key="#Notifications" timestamp="1614402432049">
@@ -147,6 +145,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1614492314041" />
+    <state x="418" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614493130887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="418" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1614493130887" />
     <state x="447" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1614490743158">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -175,10 +177,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614492173375" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614402538027">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614492673972">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614402538027" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614492673972" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614490984931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

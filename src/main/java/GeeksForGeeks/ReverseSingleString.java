@@ -1,6 +1,6 @@
-package src.problems;
+package src.main.java.GeeksForGeeks;
 
-public class StringReverse {
+public class ReverseSingleString {
 	
 	public void stringReverseByCharArry(String str)
 	{
@@ -23,6 +23,16 @@ public class StringReverse {
 		StringBuffer sb=new StringBuffer(str);
 		sb.reverse();
 		System.out.println("After :"+sb);
+	}
+
+	public static void main(String[] args)
+	{
+		ReverseSingleString reverseSingleString = new ReverseSingleString();
+		reverseSingleString.stringReverseByCharArry("Abhinav");
+		reverseSingleString.stringReverseByCharArry("This is");
+
+		reverseSingleString.stringReverseByStringBuffer("Welcome");
+		reverseSingleString.stringReverseByStringBuffer("How are you?");
 	}
 
 }
