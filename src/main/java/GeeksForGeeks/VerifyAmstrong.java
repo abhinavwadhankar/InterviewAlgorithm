@@ -1,4 +1,5 @@
-package src.GeeksForGeeks
+package src.GeeksForGeeks;
+
 
 
 public class VerifyAmstrong
@@ -16,17 +17,18 @@ public class VerifyAmstrong
             copyOriginalNumber = copyOriginalNumber/10;
         }
         if(sum == originalNumber)
-            System.Out.println("Amstrong");
+            System.out.println("Amstrong");
         else
-            System.Out.println("Not Amstrong");
+            System.out.println("Not Amstrong");
 
     }
 
 
-    public static void main(str[] args)
+    public static void main(String[] args)
     {
         VerifyAmstrong verifyAmstrong =new VerifyAmstrong();
-        verifyAmstrong.validateAmstrongNumber(471);
+        verifyAmstrong.validateAmstrongNumber(407);
+        verifyAmstrong.validateAmstrongNumber(153);
     }
 
 

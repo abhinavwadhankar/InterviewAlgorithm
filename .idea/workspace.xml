@@ -22,12 +22,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="pulled master">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoSolutions/src/GeeksForGeeks/Amstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="added maven">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/bin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/Entry/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entry/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/Entry/TestLinkListSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entry/TestLinkListSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/GeeksForGeeks/Amstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/VerifyAmstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/BubbleSortLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/BubbleSortLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/CSSselector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CSSselector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/LinkListSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/LinkListSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/PalindromInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/PalindromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoSolutions/src/problems/SwapLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/SwapLogic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +76,25 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/GeeksForGeeks" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Java" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614402515218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added maven">
+      <created>1614491446442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614491446442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,17 +135,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pulled master" />
-    <option name="LAST_COMMIT_MESSAGE" value="pulled master" />
+    <MESSAGE value="added maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="added maven" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="281" key="#Notifications" timestamp="1614402432049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="463" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1614402432049" />
+    <state x="184" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614492314041">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1614492314041" />
     <state x="447" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1614490743158">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="447" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1614490743158" />
+    <state x="585" y="218" key="EnvironmentVariablesDialog" timestamp="1614491807112">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="585" y="218" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1614491807112" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1614491626075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614491626075" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1614491626073">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614491626073" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1614491626072">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614491626072" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1614491626074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614491626074" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1614492173375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614492173375" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614402538027">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
