@@ -19,16 +19,34 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="change project structure">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseSingleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseWordInsideString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseWordInsideString.java" afterDir="false" />
+    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="Added Code for String ReverseWordInsideString.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CreateMathTableOfAnyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/FIndEvenOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PrimeNumberRange_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PrintAtoZ.Java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/RandomNumberWithRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/StringReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/BubbleSortLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/BubbleSortLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CSSselector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CSSselector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/LinkListSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/LinkListSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseWordInsideString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/SwapLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/SwapLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/VerifyAmstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/VerifyAmstrong.java" afterDir="false" />
     </list>
+    <list id="3a924753-6f4b-49a5-873d-972882898805" name="Added Code for String ReverseWordInsideString java" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +81,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,6 +109,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="" />
+      <changelist id="3a924753-6f4b-49a5-873d-972882898805" name="Added Code for String ReverseWordInsideString java" comment="" />
       <created>1614402406667</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -115,7 +136,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614492663332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Code for String ReverseWordInsideString.java">
+      <created>1614495213207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614495213207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Code for String ReverseWordInsideString.java">
+      <created>1614495265170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614495265170</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Code for String ReverseWordInsideString.java">
+      <created>1614519907983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614519907983</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,36 +165,63 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="SHOW_PATCH_IN_EXPLORER" value="true" />
     <MESSAGE value="pulled master" />
     <MESSAGE value="added maven" />
     <MESSAGE value="change project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="change project structure" />
+    <MESSAGE value="Added Code for String ReverseWordInsideString.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Code for String ReverseWordInsideString.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="281" key="#Notifications" timestamp="1614402432049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="463" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1614402432049" />
+    <state x="208" y="23" width="1024" height="823" key="#Project_Structure" timestamp="1614516735349">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="823" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1614516735349" />
     <state x="184" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614492314041">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1614492314041" />
-    <state x="418" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614493130887">
+    <state x="418" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614517902579">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="418" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1614493130887" />
+    <state x="418" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1614517902579" />
     <state x="447" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1614490743158">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="447" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1614490743158" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1614498681855">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1614498681855" />
+    <state x="348" y="44" key="CommitChangelistDialog2" timestamp="1614519908023">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="348" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1614519908023" />
     <state x="585" y="218" key="EnvironmentVariablesDialog" timestamp="1614491807112">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -173,17 +242,29 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614491626074" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1614492173375">
+    <state x="467" y="159" key="RollbackChangesDialog" timestamp="1614519970047">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614492173375" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614492673972">
+    <state x="467" y="159" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1614519970047" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1614516778283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614492673972" />
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614516778283" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614495276624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614495276624" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1614516774411">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1614516774411" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614490984931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1614490984931" />
+    <state x="352" y="163" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1614520006512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="352" y="163" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1440.900@0.0.1440.900" timestamp="1614520006512" />
   </component>
 </project>

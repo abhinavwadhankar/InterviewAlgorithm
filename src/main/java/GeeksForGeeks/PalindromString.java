@@ -1,4 +1,4 @@
-package src.problems;
+package src.main.java.GeeksForGeeks;
 
 public class PalindromString {
 	

@@ -1,5 +1,4 @@
-package src.problems;
-
+package src.main.java.GeeksForGeeks;
 public class ReverseInteger {
 	
 	public void reverseInt(int value)

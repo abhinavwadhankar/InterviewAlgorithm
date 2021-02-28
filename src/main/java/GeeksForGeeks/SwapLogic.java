@@ -1,4 +1,4 @@
-package src.problems;
+package src.main.java.GeeksForGeeks;
 import java.util.ArrayList;
 import java.util.List;
 

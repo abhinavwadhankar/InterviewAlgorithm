@@ -1,6 +1,4 @@
-package src.GeeksForGeeks;
-
-
+package src.main.java.GeeksForGeeks;
 
 public class VerifyAmstrong
 {
