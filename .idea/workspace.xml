@@ -28,24 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="Added Code for String ReverseWordInsideString.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CreateMathTableOfAnyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/FIndEvenOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PrimeNumberRange_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PrintAtoZ.Java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/RandomNumberWithRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/BubbleSortLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/BubbleSortLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CSSselector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/CSSselector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/LinkListSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/LinkListSingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/PalindromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/ReverseWordInsideString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/SwapLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/SwapLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/VerifyAmstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeeksForGeeks/VerifyAmstrong.java" afterDir="false" />
-    </list>
+    <list default="true" id="6cc2603b-f000-4577-b3b8-5adb821c3acb" name="Default Changelist" comment="Added RandomNumberWithRange, PrintAtoZ,PrimeNumberRange code snippets" />
     <list id="3a924753-6f4b-49a5-873d-972882898805" name="Added Code for String ReverseWordInsideString java" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614519907983</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added RandomNumberWithRange, PrintAtoZ,PrimeNumberRange code snippets">
+      <created>1614520141846</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614520141846</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added RandomNumberWithRange, PrintAtoZ,PrimeNumberRange code snippets">
+      <created>1614520147965</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614520147965</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +188,8 @@
     <MESSAGE value="added maven" />
     <MESSAGE value="change project structure" />
     <MESSAGE value="Added Code for String ReverseWordInsideString.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Code for String ReverseWordInsideString.java" />
+    <MESSAGE value="Added RandomNumberWithRange, PrintAtoZ,PrimeNumberRange code snippets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added RandomNumberWithRange, PrintAtoZ,PrimeNumberRange code snippets" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="281" key="#Notifications" timestamp="1614402432049">
@@ -250,10 +248,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614516778283" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614495276624">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614520178048">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614495276624" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614520178048" />
+    <state x="458" y="301" key="git4idea.ui.GitTagDialog" timestamp="1614520548722">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="301" key="git4idea.ui.GitTagDialog/0.0.1440.900@0.0.1440.900" timestamp="1614520548722" />
     <state x="385" y="210" key="run.anything.popup" timestamp="1614516774411">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
